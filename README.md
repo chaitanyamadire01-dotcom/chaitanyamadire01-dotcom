@@ -16,7 +16,7 @@
 ## 🚀 Skills
 
 **Languages**
-`Java` `Python` `JavaScript`
+ `Python`
 
 **AI / ML**
 `Machine Learning` `Deep Learning` `Computer Vision` `OpenCV` `NLP`
